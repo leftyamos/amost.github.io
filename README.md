@@ -36,6 +36,9 @@ A NLP [project](https://github.com/leftyamos/amost.github.io/blob/master/NLP_Twi
 ### Titanic: Machine Learning from Disaster
 [Code](https://www.kaggle.com/leftyamos/titanic-survival-using-random-forest)
 
+### House Prices: Advanced Regression Techniques
+[House](https://github.com/leftyamos/amost.github.io/blob/master/house.ipynb)
+
 
 
 
