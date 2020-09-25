@@ -6,14 +6,14 @@ A portfolio that contains a compilation of projects that I created which utilise
 ### Rhode Island Police Activity
 This project is a data visualization project that explores the police activities in Rhode Island using various EDA methods to visualize the different types of violations committed based on race, gender, time of day and other related variables.
 
-### Sonar
+### Metal & Rocks Classification (Binary)
 The dataset is taken to UCI Machine Learning Repository where the goal is to differentiate between a metal cylinder and a cylindrical rock based of the sonar signals bouncing off of them. This project uses various machine learning methods to model and classify the two different types. 
 The dataset was also applied to a neural network model in Keras with its performance evaluated with different models.
 
 ### Music Genre Classification (Multi-Class)
 Music Genre Classification uses Librosa which is an audio and music analysis python library. This project classified the genre of music based on their properties by using different types of machine learning and deep learning models created.
 
-### Fruit (Multi-class)
+### Fruit Classification (Multi-Class)
 A simple dataset of fruits was analyze and used as a classification problem by using different machine learning models.
 
 ### Yelp Ratings
@@ -22,7 +22,7 @@ A NLP project which analyze yelp reviews and predict them as either positive or 
 ### Twitter Disaster Tweets
 A NLP project which analyzes a set of twitter tweets to predict which tweets are about a real disaster by using various machine learning models.
 
-### Wheat Kernel Seeds
+### Wheat Kernel Seeds Classification (Multi-Class)
 Wheat Kernel Seeds uses a dataset taken from UCI Machine Learning Repository where it is analyze and train using multiple machine learning models to classify different types of seeds.
 
 ### Student Performance Grade
