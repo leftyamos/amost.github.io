@@ -32,6 +32,10 @@ A NLP [project](https://github.com/leftyamos/amost.github.io/blob/master/NLP_Cla
 A NLP [project](https://github.com/leftyamos/amost.github.io/blob/master/NLP_Twitter_Project.ipynb) which analyzes a set of twitter tweets to predict which tweets are about a real disaster by using various machine learning models.
 
 
+## Kaggle Competition
+### Titanic: Machine Learning from Disaster
+[Code](https://www.kaggle.com/leftyamos/titanic-survival-using-random-forest)
+
 
 
 
