@@ -40,7 +40,7 @@ A NLP [project](https://github.com/leftyamos/amost.github.io/blob/master/NLP_Twi
 [House Prices: Advanced Regression Techniques](https://github.com/leftyamos/amost.github.io/blob/master/house.ipynb) is a knowledge competition on Kaggle in which the goal is to create a machine learning model using regression to ppredict the final price of each home. The dataset can be found [here](https://www.kaggle.com/c/house-prices-advanced-regression-techniques/data) in Kaggle.
 
 ### Digit Recognizer
-[Digit Recognizer](https://github.com/leftyamos/amost.github.io/blob/master/digit_recongnizer.ipynb) is a knowledge competition on Kaggle in which the goal is to indentify digits from a dataset of tens of thousands of handwritten images. This project uses a neural network model to classified the images. he dataset can be found [here](https://www.kaggle.com/c/digit-recognizer/data) in Kaggle.
+[Digit Recognizer](https://github.com/leftyamos/amost.github.io/blob/master/digit_recongnizer.ipynb) is a knowledge competition on Kaggle in which the goal is to indentify digits from a dataset of tens of thousands of handwritten images. This project uses a neural network model to classified the images. The dataset can be found [here](https://www.kaggle.com/c/digit-recognizer/data) in Kaggle.
 
 
 
