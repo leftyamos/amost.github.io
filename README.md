@@ -25,6 +25,9 @@ This dataset is taken from student achievement in secondary education of two Por
 ### Wine Classification and Quality Prediction
 This [project](https://github.com/leftyamos/amost.github.io/blob/master/Wine_Classification_%26_Quality_Prediction.ipynb) analyzes the quality of red and white wine based on various variables. It is then train using different types of machine learning models as well as deep learning models. The dataset can be found [here](https://archive.ics.uci.edu/ml/machine-learning-databases/wine-quality/).
 
+### NBA Position Classification.
+The goal for this [project]() is to determine if the modern NBA starting from 2010-2011 season until 2019-2020 season is truely positionless and if it isn't, can a player be classified on his position based on their stats. The [dataset](https://www.basketball-reference.com/leagues/NBA_2011_per_game.html) [is](https://www.basketball-reference.com/leagues/NBA_2012_per_game.html) [taken](https://www.basketball-reference.com/leagues/NBA_2013_per_game.html) [from](https://www.basketball-reference.com/leagues/NBA_2014_per_game.html) [Basketball Reference](https://www.basketball-reference.com/leagues/NBA_2015_per_game.html) [from](https://www.basketball-reference.com/leagues/NBA_2016_per_game.html) [the](https://www.basketball-reference.com/leagues/NBA_2017_per_game.html) [2010-2011 season](https://www.basketball-reference.com/leagues/NBA_2018_per_game.html) [until](https://www.basketball-reference.com/leagues/NBA_2019_per_game.html) [2019-2020 season](https://www.basketball-reference.com/leagues/NBA_2020_per_game.html), which is a decade worth of data.
+
 ### Yelp Ratings
 A NLP [project](https://github.com/leftyamos/amost.github.io/blob/master/NLP_Classification_Yelp.ipynb) which analyze yelp reviews and predict them as either positive or negative ratings. The dataset can be found [here](https://www.kaggle.com/c/yelp-recsys-2013/data?select=yelp_test_set.zip).
 
