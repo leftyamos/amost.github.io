@@ -1,3 +1,13 @@
+# Made by Amos Tai
+# Date: 03/02/2021
+
+# The goal for this project is to determine if the modern NBA starting from 2010-2011 season 
+# until 2019-2020 season is truely positionless and if it isn't, can a player be classified 
+# on his position based on their stats. The dataset is taken from Basketball Reference from 
+# the 2010-2011 season until 2019-2020 season, which is a decade worth of data.
+
+
+
 import streamlit as st
 
 import numpy as np
