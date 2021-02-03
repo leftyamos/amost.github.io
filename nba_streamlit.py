@@ -12,7 +12,6 @@ import streamlit as st
 
 import numpy as np
 import pandas as pd
-import seaborn as sns
 import matplotlib.pyplot as plt
 
 from sklearn.preprocessing import MinMaxScaler
@@ -116,14 +115,14 @@ def run_eda(df):
     years = ['2010-2011', '2011-2012', '2012-2013', '2013-2014', '2014-2015',
              '2015-2016', '2016-2017', '2017-2018', '2018-2019', '2019-2020']
     
-    season = st.selectbox('Select season', years)
+    seasons = st.selectbox('Select season', years)
     
     fig = plt.figure(figsize=(10,5))
-    filter_season = df[df['Sea']==season]['Pos'].value_counts().sort_index().loc[['PG','SG','SF','PF','C']].plot(kind='bar')
+    filter_season = df[df['Sea']==seasons]['Pos'].value_counts().sort_index().loc[['PG','SG','SF','PF','C']].plot(kind='bar')
     plt.ylim(0,140)
     plt.xlabel('Positions')
     plt.ylabel('Players')
-    plt.title(f'Total no. of players during {season} season')
+    plt.title(f'Total no. of players during {seasons} season')
     st.write(fig)
     
     row1_1, row1_2 = st.beta_columns((1,1))
@@ -134,8 +133,8 @@ def run_eda(df):
         positions = st.selectbox('Select position', ['PG','SG','SF','PF','C'])
     
     fig = plt.figure(figsize=(3,3))
-    filter_fea_pos = sns.histplot(data=df[(df['Pos']==positions) & (df['Sea']==season)], x=features)
-    plt.title(f'Histogram \n{season}: {positions}')
+    filter_fea_pos = df[(df['Pos']==positions) & (df['Sea']==seasons)][features].hist(grid='False', rwidth=0.9)
+    plt.title(f'Histogram \n{seasons}: {positions}')
     st.write(fig)
 
 
