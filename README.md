@@ -2,7 +2,7 @@
 
 A portfolio that contains a compilation of projects that I created which utilises the fundamentals of data analysis, machine learning, deep learning and digital signal processing. Most of the projects are made using the Python programming language. 
 
-## Projects
+## PROJECTS
 ### Rhode Island Police Activity
 This [project](https://github.com/leftyamos/amost.github.io/blob/master/Analyzing_Rhode_Island_Police_Activity.ipynb) is a data visualization project that explores the police activities in Rhode Island using various EDA methods to visualize the different types of violations committed based on race, gender, time of day and other related variables. The dataset can be found [here](https://assets.datacamp.com/production/repositories/1497/datasets/62bd9feef451860db02d26553613a299721882e8/police.csv).
 
@@ -36,7 +36,7 @@ A NLP [project](https://github.com/leftyamos/amost.github.io/blob/master/NLP_Cla
 A NLP [project](https://github.com/leftyamos/amost.github.io/blob/master/NLP_Twitter_Project.ipynb) which analyzes a set of twitter tweets to predict which tweets are about a real disaster by using various machine learning models. The dataset can be found [here](https://www.kaggle.com/c/nlp-getting-started/data).
 
 
-## Kaggle Competition
+## KAGGLE COMPETITION
 ### Titanic: Machine Learning from Disaster
 [Titanic: Machine Learning from Disaster](https://www.kaggle.com/leftyamos/titanic-survival-using-random-forest) is a very classic knowledge competition on Kaggle in which the goal is to create a machine learning model that predicts which passengers survived the Titanic shipwreck. The dataset can be found [here](https://www.kaggle.com/c/titanic/data) in Kaggle.
 
