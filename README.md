@@ -6,7 +6,7 @@ A portfolio that contains a compilation of projects that I created which utilise
 ### 1. Rhode Island Police Activity
 This [project](https://github.com/leftyamos/amost.github.io/blob/master/Analyzing_Rhode_Island_Police_Activity.ipynb) is a data visualization project that explores the police activities in Rhode Island using various EDA methods to visualize the different types of violations committed based on race, gender, time of day and other related variables. The dataset can be found [here](https://assets.datacamp.com/production/repositories/1497/datasets/62bd9feef451860db02d26553613a299721882e8/police.csv).
 
-### 2. NBA Position Classification (Multi-Class)
+### 2. NBA Position Classification (Multi-Class) with an app.
 The goal for this [project](https://github.com/leftyamos/amost.github.io/blob/master/NBA_Classification.ipynb) is to determine if the modern NBA starting from 2010-2011 season until 2019-2020 season is truely positionless and if it isn't, can a player be classified on his position based on their stats. The [dataset](https://www.basketball-reference.com/leagues/NBA_2011_per_game.html) [is](https://www.basketball-reference.com/leagues/NBA_2012_per_game.html) [taken](https://www.basketball-reference.com/leagues/NBA_2013_per_game.html) [from](https://www.basketball-reference.com/leagues/NBA_2014_per_game.html) [Basketball Reference](https://www.basketball-reference.com/leagues/NBA_2015_per_game.html) [from](https://www.basketball-reference.com/leagues/NBA_2016_per_game.html) [the](https://www.basketball-reference.com/leagues/NBA_2017_per_game.html) [2010-2011 season](https://www.basketball-reference.com/leagues/NBA_2018_per_game.html) [until](https://www.basketball-reference.com/leagues/NBA_2019_per_game.html) [2019-2020 season](https://www.basketball-reference.com/leagues/NBA_2020_per_game.html), which is a decade worth of data. 
 An app created using [Streamlit](https://www.streamlit.io/) can be found [here](https://share.streamlit.io/leftyamos/nba_streamlit_app/main/nba_streamlit.py) with the [source code](https://github.com/leftyamos/nba_streamlit_app).
 
@@ -23,7 +23,7 @@ A simple dataset of fruits was analyze and used as a [classification problem](ht
 ### 6. Wheat Kernel Seeds Classification (Multi-Class)
 [Wheat Kernel Seeds](https://github.com/leftyamos/amost.github.io/blob/master/Seed_Multi_Class_Classification.ipynb) uses a dataset taken from UCI Machine Learning Repository where it is analyze and train using multiple machine learning models to classify different types of seeds. The dataset can be found [here](https://archive.ics.uci.edu/ml/datasets/seeds).
 
-### 7. Loan Prediction Classification (Binary-Class)
+### 7. Loan Prediction Classification (Binary)
 This classification [problem](https://github.com/leftyamos/amost.github.io/blob/master/Loan_Prediction_Classification.ipynb) is to classified if an applicant is able to take a home loan based on several factors. The dataset can be found [here](https://datahack.analyticsvidhya.com/contest/practice-problem-loan-prediction-iii/#ProblemStatement).
 
 ### 8. Big Mart Sales Prediction Problem (Regression)
