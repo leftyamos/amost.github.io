@@ -23,7 +23,7 @@ A simple dataset of fruits was analyze and used as a [classification problem](ht
 ### 6. Wheat Kernel Seeds Classification (Multi-Class)
 [Wheat Kernel Seeds](https://github.com/leftyamos/amost.github.io/blob/master/Seed_Multi_Class_Classification.ipynb) uses a dataset taken from UCI Machine Learning Repository where it is analyze and train using multiple machine learning models to classify different types of seeds. The dataset can be found [here](https://archive.ics.uci.edu/ml/datasets/seeds).
 
-### 7. Loan Prediction Classification (Binary)
+### 7. Loan Status Classification (Binary)
 This classification [problem](https://github.com/leftyamos/amost.github.io/blob/master/Loan_Prediction_Classification.ipynb) is to classified if an applicant is able to take a home loan based on several factors. The dataset can be found [here](https://datahack.analyticsvidhya.com/contest/practice-problem-loan-prediction-iii/#ProblemStatement).
 
 ### 8. Big Mart Sales Prediction Problem (Regression)
