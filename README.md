@@ -23,6 +23,9 @@ A simple dataset of fruits was analyze and used as a [classification problem](ht
 ### Wheat Kernel Seeds Classification (Multi-Class)
 [Wheat Kernel Seeds](https://github.com/leftyamos/amost.github.io/blob/master/Seed_Multi_Class_Classification.ipynb) uses a dataset taken from UCI Machine Learning Repository where it is analyze and train using multiple machine learning models to classify different types of seeds. The dataset can be found [here](https://archive.ics.uci.edu/ml/datasets/seeds).
 
+### Big Mart Sales Prediction Problem (Regression)
+The [project](https://github.com/leftyamos/amost.github.io/blob/master/Big_Mart_Sales_Prediction.ipynb) is to build a predictive model and predict the sales of each product at a particular outlet with the dataset taken from [here](https://datahack.analyticsvidhya.com/contest/practice-problem-big-mart-sales-iii/#ProblemStatement). The report contains an EDA and the ML models use to predict the sales. ML models used are Linear Regression, Ridge, Lasso, Decision Tree and Random Forest.
+
 ### Student Performance Grade
 This dataset is taken from student achievement in secondary education of two Portuguese schools where it shows the performance grades of students based on various variables. The dataset is analyzed and train to use as a [Feature Selection problem](https://github.com/leftyamos/amost.github.io/blob/master/Student%20Performance%20Grade.ipynb). The dataset can be found [here](https://archive.ics.uci.edu/ml/datasets/Student+Performance).
 
