@@ -41,6 +41,9 @@ A NLP [project](https://github.com/leftyamos/amost.github.io/blob/master/NLP_Cla
 ### 12. Twitter Disaster Tweets
 A NLP [project](https://github.com/leftyamos/amost.github.io/blob/master/NLP_Twitter_Project.ipynb) which analyzes a set of twitter tweets to predict which tweets are about a real disaster by using various machine learning models. The dataset can be found [here](https://www.kaggle.com/c/nlp-getting-started/data).
 
+### 13. Boston Housing Price (Regression)
+The famous Boston Housing Price dataset is mostly used for regression problems. This [project](https://github.com/leftyamos/amost.github.io/blob/master/Boston_Housing_Price.ipynb) explores using different types of regression models as well as using XGBoost to find the best predictive model.
+
 
 ## KAGGLE COMPETITION
 ### 1. Titanic: Machine Learning from Disaster
