@@ -55,6 +55,9 @@ The famous Boston Housing Price dataset is mostly used for regression problems. 
 ### 3. Digit Recognizer
 [Digit Recognizer](https://github.com/leftyamos/amost.github.io/blob/master/digit_recongnizer.ipynb) is a knowledge competition on Kaggle in which the goal is to indentify digits from a dataset of tens of thousands of handwritten images. This project uses a neural network model to classified the images. The dataset can be found [here](https://www.kaggle.com/c/digit-recognizer/data) in Kaggle.
 
+### 4. Bike Sharing Demand
+This [project](https://github.com/leftyamos/amost.github.io/blob/master/Bike_Rental_Prediction.ipynb) is an old [Kaggle competition](https://www.kaggle.com/c/bike-sharing-demand) which objective is to forecast the demand of bikes rented. The projects goes through several regression models and uses Root Mean Squared Logarithmic Error as a metric for evaluation. 
+
 
 
 
