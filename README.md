@@ -33,7 +33,7 @@ The [project](https://github.com/leftyamos/amost.github.io/blob/master/Big_Mart_
 This dataset is taken from student achievement in secondary education of two Portuguese schools where it shows the performance grades of students based on various variables. The dataset is analyzed and train to use as a [Feature Selection problem](https://github.com/leftyamos/amost.github.io/blob/master/Student%20Performance%20Grade.ipynb). The dataset can be found [here](https://archive.ics.uci.edu/ml/datasets/Student+Performance).
 
 ### 10. Wine Classification and Quality Prediction
-This [project](https://github.com/leftyamos/amost.github.io/blob/master/wine_class_alt.ipynb) analyzes the quality of red and white wine based on various variables. It is then train using different types of machine learning models. The dataset can be found [here](https://archive.ics.uci.edu/ml/machine-learning-databases/wine-quality/).
+This [project](https://github.com/leftyamos/amost.github.io/blob/master/Wine_Classification_%26_Quality_Prediction.ipynb) analyzes the properties of red and white wine and classified them based on type and quality using a neural network. [Another](https://github.com/leftyamos/amost.github.io/blob/master/wine_class_alt.ipynb) alternate take on the same dataset is used to classified the type of wine using different machine learning models. The dataset can be found [here](https://archive.ics.uci.edu/ml/machine-learning-databases/wine-quality/).
 
 ### 11. Yelp Ratings
 A NLP [project](https://github.com/leftyamos/amost.github.io/blob/master/NLP_Classification_Yelp.ipynb) which analyze yelp reviews and predict them as either positive or negative ratings. The dataset can be found [here](https://www.kaggle.com/c/yelp-recsys-2013/data?select=yelp_test_set.zip).
