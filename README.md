@@ -21,7 +21,7 @@ Music Genre Classification uses Librosa which is an audio and music analysis pyt
 A simple dataset of fruits was analyze and used as a [classification problem](https://github.com/leftyamos/amost.github.io/blob/master/ML_Multi_Class_Classification.ipynb) by using different machine learning models. Another [approach](https://github.com/leftyamos/amost.github.io/blob/master/fruit.ipynb) using feature engineering instead of scaling while also removing outliers also was conducted. The dataset can be found [here](https://raw.githubusercontent.com/susanli2016/Machine-Learning-with-Python/master/fruit_data_with_colors.txt).
 
 ### 6. Wheat Kernel Seeds Classification (Multi-Class)
-[Wheat Kernel Seeds](https://github.com/leftyamos/amost.github.io/blob/master/Seed_Multi_Class_Classification.ipynb) uses a dataset taken from UCI Machine Learning Repository where it is analyze and train using multiple machine learning models to classify different types of seeds. The dataset can be found [here](https://archive.ics.uci.edu/ml/datasets/seeds).
+[Wheat Kernel Seeds](https://github.com/leftyamos/amost.github.io/blob/master/seed_class_alt.ipynb) uses a dataset taken from UCI Machine Learning Repository where it is analyze and train using multiple machine learning models to classify different types of seeds. The dataset can be found [here](https://archive.ics.uci.edu/ml/datasets/seeds).
 
 ### 7. Loan Status Classification (Binary)
 This classification [problem](https://github.com/leftyamos/amost.github.io/blob/master/Loan_Status_Classification.ipynb) is to classified if an applicant is able to take a home loan based on several factors. The dataset can be found [here](https://datahack.analyticsvidhya.com/contest/practice-problem-loan-prediction-iii/#ProblemStatement).
