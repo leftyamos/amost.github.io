@@ -45,6 +45,9 @@ A NLP [project](https://github.com/leftyamos/amost.github.io/blob/master/NLP_Twi
 ### 13. Boston Housing Price (Regression)
 The famous Boston Housing Price dataset is mostly used for regression problems. This [project](https://github.com/leftyamos/amost.github.io/blob/master/Boston_Housing_Price.ipynb) explores using different types of regression models as well as using XGBoost to find the best predictive model.
 
+### 14. HR Analytics Challenge (Binary)
+This [project](https://github.com/leftyamos/amost.github.io/blob/master/HR_Promotion_Classification.ipynb) is based on a [competition](https://datahack.analyticsvidhya.com/contest/wns-analytics-hackathon-2018-1/) to predict whether a potential promotee at checkpoint in the test set will be promoted or not after the evaluation process. The dataset is analyze and pre-process by imputing missing values and dealing with outliers, some feature engineering was conducted and categorical values were encoded before training of the model. The dataset is imbalance so a seperate oversampled dataset was created for training too. Now there are two datasets to be train, the original and the oversample dataset. Both datasets were train with different models and were evaluated with different evaluation metrics, one of them is their F1 scores.
+
 
 ## KAGGLE COMPETITION
 ### 1. Titanic: Machine Learning from Disaster
