@@ -2,6 +2,7 @@
 
 A portfolio that contains a compilation of projects that I created which utilises the fundamentals of data analysis, machine learning, deep learning and digital signal processing. Most of the projects are made using the Python programming language. 
 
+
 <h2 align="center">PROJECTS</h2>
 
 ### 1. Rhode Island Police Activity
@@ -50,7 +51,8 @@ The famous Boston Housing Price dataset is mostly used for regression problems. 
 This [project](https://github.com/leftyamos/amost.github.io/blob/master/HR_Promotion_Classification.ipynb) is based on a [competition](https://datahack.analyticsvidhya.com/contest/wns-analytics-hackathon-2018-1/) to predict whether a potential promotee at checkpoint in the test set will be promoted or not after the evaluation process. The dataset is analyze and pre-process by imputing missing values and dealing with outliers, some feature engineering was conducted and categorical values were encoded before training of the model. The dataset is imbalance so a seperate oversampled dataset was created for training too. Now there are two datasets to be train, the original and the oversample dataset. Both datasets were train with different models and were evaluated with different evaluation metrics, one of them is their F1 scores.
 
 
-## KAGGLE COMPETITION
+<h2 align="center">KAGGLE COMPETITION</h2>
+
 ### 1. Titanic: Machine Learning from Disaster
 [Titanic: Machine Learning from Disaster](https://www.kaggle.com/leftyamos/titanic-survival-using-random-forest) is a very classic knowledge competition on Kaggle in which the goal is to create a machine learning model that predicts which passengers survived the Titanic shipwreck. The dataset can be found [here](https://www.kaggle.com/c/titanic/data) in Kaggle.
 
