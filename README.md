@@ -2,7 +2,7 @@
 
 A portfolio that contains a compilation of projects that I created which utilises the fundamentals of data analysis, machine learning, deep learning and digital signal processing. Most of the projects are made using the Python programming language. 
 
-## PROJECTS
+<h1 align="center">## PROJECTS</h1>
 ### 1. Rhode Island Police Activity
 This [project](https://github.com/leftyamos/amost.github.io/blob/master/Analyzing_Rhode_Island_Police_Activity.ipynb) is a data visualization project that explores the police activities in Rhode Island using various EDA methods to visualize the different types of violations committed based on race, gender, time of day and other related variables. The dataset can be found [here](https://assets.datacamp.com/production/repositories/1497/datasets/62bd9feef451860db02d26553613a299721882e8/police.csv).
 
